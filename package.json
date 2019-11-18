@@ -1,16 +1,16 @@
 {
-	"name": "project-name",
-	"version": "0.0.1",
-	"description": "A description for your project.",
+	"name": "nobel's realm of oddities",
+	"version": "1.0",
+	"description": "A minimal landing page for showing off what I can do.",
 	"main": "./dist/your-main-js-file.js",
 	"author": {
-		"name": "YOUR NAME",
-		"url": "http://link-to-your-website.com"
+		"name": "Nobel Dahal",
+		"url": "https://nobeldahal.ml"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "http://link-to-your-git-repo.com"
+		"url": "https://github.com/coderkoala/portfolio"
 	},
 	"boilerplate": {
 		"version": "2.2.6",
